@@ -1,0 +1,16 @@
+C:\Users\Davi\Github\Registration_training\bin\Debug\net5.0\Registration_training.exe
+C:\Users\Davi\Github\Registration_training\bin\Debug\net5.0\Registration_training.deps.json
+C:\Users\Davi\Github\Registration_training\bin\Debug\net5.0\Registration_training.runtimeconfig.json
+C:\Users\Davi\Github\Registration_training\bin\Debug\net5.0\Registration_training.runtimeconfig.dev.json
+C:\Users\Davi\Github\Registration_training\bin\Debug\net5.0\Registration_training.dll
+C:\Users\Davi\Github\Registration_training\bin\Debug\net5.0\ref\Registration_training.dll
+C:\Users\Davi\Github\Registration_training\bin\Debug\net5.0\Registration_training.pdb
+C:\Users\Davi\Github\Registration_training\obj\Debug\net5.0\Registration_training.csprojAssemblyReference.cache
+C:\Users\Davi\Github\Registration_training\obj\Debug\net5.0\Registration_training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\Github\Registration_training\obj\Debug\net5.0\Registration_training.AssemblyInfoInputs.cache
+C:\Users\Davi\Github\Registration_training\obj\Debug\net5.0\Registration_training.AssemblyInfo.cs
+C:\Users\Davi\Github\Registration_training\obj\Debug\net5.0\Registration_training.csproj.CoreCompileInputs.cache
+C:\Users\Davi\Github\Registration_training\obj\Debug\net5.0\Registration_training.dll
+C:\Users\Davi\Github\Registration_training\obj\Debug\net5.0\ref\Registration_training.dll
+C:\Users\Davi\Github\Registration_training\obj\Debug\net5.0\Registration_training.pdb
+C:\Users\Davi\Github\Registration_training\obj\Debug\net5.0\Registration_training.genruntimeconfig.cache
