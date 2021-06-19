@@ -1,0 +1,51 @@
+Calculo_Vetorial 1 0
+Calculo_1 1 0
+Calculo_2 2 2 Calculo_1 Calculo_Vetorial
+Calculo_3 3 1 Calculo_2
+Introducao_Algebra_Linear 3 1 Calculo_Vetorial
+Series_Diferenciais 4 2 Introducao_Algebra_Linear Calculo_2
+Calculo_Numerico 5 1 Series_Diferenciais
+Introducao_Engenharia_Computacao 1 0
+Materiais 1 0
+Metodologia 1 0
+Introducao_Programação 1 0
+Linguagem_Programação_1 2 1 Introducao_Programação
+Linguagem_Programação_2 4 1 Linguagem_Programação_1
+Eletricidade_Circuitos_1 2 2 Calculo_1 Introducao_Engenharia_Computacao
+Eletricidade_Circuitos_2 3 2 Eletricidade_Circuitos_1 Fisica_Aplicada
+Fisica_Aplicada 2 1 Calculo_1
+Fisica_Experimental 2 0
+Circuitos_Logicos_1 2 2 Introducao_Engenharia_Computacao Introducao_Programação
+Circuitos_Logicos_2 3 1 Circuitos_Logicos_1
+Pesquisa_Aplicada 2 0
+Mecanica_Para_Engenharia 3 1 Fisica_Aplicada
+Calculo_Probabilidade 3 1 Calculo_1
+Estrutura_Dados 4 1 Linguagem_Programação_1
+Eletronica_Aplicada_1 4 1 Eletricidade_Circuitos_2
+Eletronica_Aplicada_2 5 1 Eletronica_Aplicada_1
+Arquitetura_Computadores 4 2 Circuitos_Logicos_2 Introducao_Engenharia_Computacao
+Banco_Dados 5 1 Estrutura_Dados
+Analise_Projeto 5 1 Estrutura_Dados
+Introducao_Microeletronica 5 1 Eletronica_Aplicada_1
+Introducao_Mecanica_Fluidos 5 1 Mecanica_Para_Engenharia
+Microcontroladores 6 2 Arquitetura_Computadores Eletronica_Aplicada_2
+Sinais_Sitemas 6 1 Series_Diferenciais
+Sistemas_Operacionais 6 2 Linguagem_Programação_2 Arquitetura_Computadores
+Pesquisa_Operacional 6 1 Calculo_Vetorial
+Engenharia_Software 6 0
+Redes_Computadores 6 0
+Redes_Sem_Fio 7 1 Redes_Computadores
+Introducao_Computacao_Grafica 7 2 Calculo_Vetorial Estrutura_Dados
+Introducao_Processamento_Imagens 7 1 Calculo_Probabilidade
+Sistemas_Controle 7 3 Sinais_Sitemas Mecanica_Para_Engenharia Eletricidade_Circuitos_2
+Avaliacao_Desempenho_Sistema 7 1 Redes_Computadores
+Introducao_Teoria_Informacao 8 1 Calculo_Probabilidade
+Introducao_Inteligencia_Artificial 8 1 Estrutura_Dados
+Consepcao_Estruturada 8 1 Microcontroladores
+Robotica 8 1 Sistemas_Controle
+ADM_Engenharia 9 0
+Economia 9 0
+Computadores_Sociedade 9 0
+Estagio_Supervisionado 10 0
+TCC_1 9 0
+TCC_2 10 0
